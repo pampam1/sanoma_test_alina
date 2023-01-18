@@ -1,7 +1,7 @@
-certifi==2021.5.30
+certifi==2022.12.07
 chardet==4.0.0
 idna==2.10
-numpy==1.20.3
+numpy==1.22
 pandas==1.2.4
 python-dateutil==2.8.1
 pytz==2021.1
